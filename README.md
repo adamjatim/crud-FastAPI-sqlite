@@ -1,6 +1,8 @@
 # CRUD-FastAPI-SQLite
 
-<div style="display:flex; flex-direction:column; gap:1rem;">
+![](/src/FastAPI-Swagger-UI-01-04-2025_09_47_PM.png)
+
+<!-- <div style="display:flex; flex-direction:column; gap:1rem;">
   <div style="display:flex; flex-direction:row; border:1px solid #61affe; background: rgba(97, 175, 254, .1); width:100%; height:100%; padding:0.3rem; border-radius:0.2rem; gap:0.8rem;">
     <div style="
     display: flex;
@@ -109,4 +111,4 @@
       <span style="color: #3b4151;font-family: sans-serif; font-size: 13px; word-break: break-word;">Delete Task</span>
     </div>
   </div>
-</div>
+</div> -->
