@@ -1,4 +1,4 @@
-# CRUD-FastAPI-SQLite
+# crud-FastAPI-sqlite
 
 ![](/src/FastAPI-Swagger-UI-01-04-2025_09_47_PM.png)
 
